@@ -1,0 +1,10 @@
+.place__card {
+    margin: 0;
+    padding: 0;
+    display: grid;
+    gap: 48px 40px;
+    grid-template-columns: 460px;
+    grid-template-areas:
+    "title website"
+    "image paragraph";
+}

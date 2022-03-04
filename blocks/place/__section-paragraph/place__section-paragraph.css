@@ -1,0 +1,5 @@
+.place__section-paragraph {
+    margin: 0;
+    padding: 0;
+    grid-area: paragraph;
+}
