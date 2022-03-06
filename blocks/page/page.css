@@ -1,6 +1,6 @@
 .page {
   margin: 0 auto;
-  padding: 28px 0 0;
+  padding: 28px 0 24px;
   max-width: 1280px;
   background: #2A2C2F;
   font-family: 'Inter';
@@ -24,9 +24,9 @@
          url("../../fonts/Inter-Black.woff") format("woff");
   }
 
-  @media(min-width: 320px) and (max-width: 767px) {
+  @media(max-width: 600px) {
     .page {
-      padding: 16px 0 0;
+      padding: 16px 0 24px;
         }
 }
 

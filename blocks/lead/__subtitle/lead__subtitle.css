@@ -4,7 +4,7 @@
     margin: 32px auto 64px;
     max-width: 550px;
     font-size: 30px;
-    line-height: 36px;
+    line-height: 1.2;
     text-align: center;
     color: #FFFFFF;
 }
@@ -12,7 +12,7 @@
 @media(min-width: 320px) and (max-width: 767px) {
     .lead__subtitle {
         font-size: 16px;
-        line-height: 20px;
+        line-height: 1.25;
         margin: 16px auto 40px;
         max-width: 290px;
         }
