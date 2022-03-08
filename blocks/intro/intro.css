@@ -4,22 +4,22 @@
     padding: 92px 0 0;
 }
 
-@media(max-width: 1024px) {
+@media(min-width: 981px) and (max-width: 1024px) {
     .intro {
         max-width: 928px;
     }
 }
 
-@media(min-width: 768px) and (max-width: 980px) {
+@media(min-width: 426px) and (max-width: 980px) {
     .intro {
         max-width: 720px;
-        padding: 88px 0 0;
+        padding: 88px 24px 0;
     }
 }
 
-@media(min-width: 320px) and (max-width: 767px) {
+@media(min-width: 320px) and (max-width: 425px) {
     .intro {
         max-width: 288px;
-        padding: 64px 0 0;
+        padding: 64px 16px 0;
     }
 }

@@ -14,7 +14,7 @@
         }
 }
 
-@media(min-width: 320px) and (max-width: 767px) {
+@media(min-width: 320px) and (max-width: 425px) {
     .intro__text {
         max-width: 245px;
         }
