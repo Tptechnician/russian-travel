@@ -5,3 +5,15 @@
     line-height: 14px;
     color: #FFFFFF;
 }
+
+@media(min-width: 426px) and (max-width: 980px) {
+    .lead__caption {
+        padding-left: 24px;
+    }
+}
+
+@media(max-width: 425px) {
+    .lead__caption {
+        padding-left: 16px;
+    }
+}
