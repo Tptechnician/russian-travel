@@ -6,9 +6,8 @@
     font-family: 'Inter', 'Helvetica Neue', 'sans-serif';
 }
 
-  @media(max-width: 600px) {
+@media(max-width: 600px) {
     .page {
       padding: 16px 0 24px;
         }
 }
-

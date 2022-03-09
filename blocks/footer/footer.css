@@ -16,6 +16,7 @@
 @media(min-width: 601px) and (max-width: 980px) {
     .footer {
         max-width: 720px;
+        padding: 0 24px 0;
     }
 }
 
