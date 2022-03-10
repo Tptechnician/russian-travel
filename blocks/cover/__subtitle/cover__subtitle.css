@@ -7,14 +7,15 @@
     line-height: 1.22;
     text-align: center;
     color: #FFFFFF;
-    max-width: 320px;
+    max-width: 360px;
     z-index: 1;
 }
 
 @media(max-width: 600px) {
     .cover__subtitle {
+        margin: 16px 0 0;
         font-size: 14px;
         line-height: 1.14;
-        max-width: 234px;
+        max-width: 267px;
     }
 }

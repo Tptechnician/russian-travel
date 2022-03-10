@@ -1,0 +1,6 @@
+.header__list {
+    padding-bottom: 4px;
+    display: grid;
+    grid-template-columns: repeat(2, 30px);
+    gap: 18px;
+}
