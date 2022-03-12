@@ -13,14 +13,14 @@
     }
 }
 
-@media(min-width: 601px) and (max-width: 1023px) {
+@media(min-width: 661px) and (max-width: 1023px) {
     .footer {
         max-width: 720px;
         padding: 0 24px 0;
     }
 }
 
-@media(max-width: 600px) {
+@media(max-width: 660px) {
     .footer {
         max-width: 288px;
         flex-direction: column;
