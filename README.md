@@ -27,4 +27,4 @@
 
 - [Макет 3](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-mobile).
 
-[Ссылка страницы на github pages](https://tptechnician.github.io/yet-another-project/)
+[Ссылка страницы на github pages](https://tptechnician.github.io/russian-travel/)
